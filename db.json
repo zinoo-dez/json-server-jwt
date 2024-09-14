@@ -1,0 +1,114 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "One Post",
+      "body": "This is the One post",
+      "userId": 3
+    },
+    {
+      "id": "2",
+      "title": "Two Post",
+      "body": "This is the Two post",
+      "userId": 2
+    },
+    {
+      "id": "4",
+      "title": "Fourth Post",
+      "body": "This is the fourth post",
+      "userId": 2
+    },
+    {
+      "id": "5",
+      "title": "Fifth Post",
+      "body": "This is the fifth post",
+      "userId": 3
+    },
+    {
+      "id": "6",
+      "title": "Sixth Post",
+      "body": "This is the sixth post",
+      "userId": 3
+    },
+    {
+      "id": "7",
+      "title": "Seventh Post",
+      "body": "This is the seventh post",
+      "userId": 1
+    },
+    {
+      "id": "8",
+      "title": "Eighth Post",
+      "body": "This is the eighth post",
+      "userId": 2
+    },
+    {
+      "id": "9",
+      "title": "Ninth Post",
+      "body": "This is the ninth post",
+      "userId": 3
+    },
+    {
+      "id": "10",
+      "title": "Tenth Post",
+      "body": "This is the tenth post",
+      "userId": 1
+    },
+    {
+      "id": "11",
+      "title": "Hello Post edit",
+      "body": "This is the Hello post",
+      "userId": 1
+    },
+    {
+      "id": "1d42",
+      "title": "One Post222",
+      "body": "This is the One post",
+      "userId": 3
+    },
+    {
+      "id": "6200",
+      "title": "Two Post aeeb",
+      "body": "This is the Two post",
+      "userId": "aeeb"
+    },
+    {
+      "id": "8e0e",
+      "title": "Two Post aeeb",
+      "body": "This is the Two post",
+      "userId": 2
+    },
+    {
+      "id": "c7dd",
+      "title": "Two Post aeeb",
+      "body": "This is the Two post",
+      "userId": 2
+    }
+  ],
+  "users": [
+    {
+      "id": "5670",
+      "email": "user123@gmail.com",
+      "password": "$2a$10$TiVn.eH.6nU9N3mB/Y0T.eL3u6vyNHrQl2kv/aN9ExwaWf0JYuBNS"
+    },
+    {
+      "id": "343b",
+      "email": "user1234@gmail.com",
+      "password": "$2a$10$zsnEkgjO9VgGCd5vawmlS.KG5EmqGEVK5ghecv8zoQOhrpHdE6eny"
+    },
+    {
+      "id": "6249",
+      "email": "user100@gmail.com",
+      "password": "$2a$10$VG/aHdcvP1E2TwZ22nYJpOeEQet/XGaSdlTr3Hb3uF4msdSIPtJ22"
+    },
+    {
+      "id": "aeeb",
+      "email": "user200@gmail.com",
+      "password": "$2a$10$0sKVeOeyZj/Kz9QOk0csJ.AJhXsbUKHmkug1ks.MslIkbD32Y4q9q"
+    }
+  ],
+  "customers": [],
+  "categories": [],
+  "products": [],
+  "orders": []
+}
