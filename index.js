@@ -1,25 +1,27 @@
-const express = require('express');
-const dotenv = require('dotenv');
-dotenv.config();
-const authRoutes = require('./routes/auth');
-const postRoutes = require('./routes/posts');
-// npm i express dotenv bcryptjs jsonwebtoken json-server axios 
-
+const express = require("express");
 const app = express();
-
+const dotenv = require("dotenv");
+dotenv.config();
+const authRoutes = require("./routes/auth");
+const postRoutes = require("./routes/posts");
+const productRoutes = require("./routes/products");
+// npm i express dotenv bcryptjs jsonwebtoken json-server axios cors
 app.use(express.json());
+const cors = require('cors');
+app.use(cors()); //middleware
 
-// // Routes
 // route middleware
-app.use('/api/auth', authRoutes);
-app.use('/api/posts', postRoutes);
-app.get('/', (req, res) => {
-    res.send('Hello World');
+app.use("/api/auth", authRoutes);
+app.use("/api/posts", postRoutes);
+app.use("/api/products", productRoutes);
+app.get("/", (req, res) => {
+  res.send("Hello World");
 });
 const PORT = process.env.PORT || 3002;
 app.listen(PORT, () => {
-    console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`Server running on http://localhost:${PORT}`);
 });
+
 // ဒီ code က Express.js ကို သုံးပြီး server တစ်ခု တည်ဆောက်ထားတာ ဖြစ်ပါတယ်။
 
 // လိုအပ်တဲ့ module တွေကို import လုပ်ထားပါတယ်။
@@ -43,3 +45,5 @@ app.listen(PORT, () => {
 // PORT က .env file ထဲက PORT variable ကို သုံးပြီး မရရင် 3002 ကို default အနေနဲ့ သုံးပါတယ်။
 
 // server start ဖြစ်ရင် console မှာ message တစ်ခု ပြပေးပါတယ်။
+
+

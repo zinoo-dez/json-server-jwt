@@ -1,10 +1,37 @@
-const jwt = require('jsonwebtoken');
+const jwt = require("jsonwebtoken");
 
 function generateToken(user) {
-    return jwt.sign({ id: user.id, email: user.email }, process.env.JWT_SECRET, 
-        { expiresIn: '1h' });
+  return jwt.sign({ userId: user.id, email: user.email, username: user.username }, process.env.JWT_SECRET, {
+    expiresIn: "1h",
+  });
 }
-module.exports = { generateToken }
+module.exports = { generateToken };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // ဒီကုဒ်က JWT token တွေကို ထုတ်ပေးတဲ့ function တစ်ခုဖြစ်ပါတယ်။
 
 // generateToken function က user object ကို parameter အနေနဲ့ လက်ခံပါတယ်။
@@ -17,5 +44,5 @@ module.exports = { generateToken }
 
 // ဒီ function က ထုတ်လိုက်တဲ့ token ကို ပြန်ပေးပါတယ်။
 
-// module.exports နဲ့ generateToken function ကို export လုပ်ထားတဲ့အတွက် 
+// module.exports နဲ့ generateToken function ကို export လုပ်ထားတဲ့အတွက်
 // တခြား file တွေကနေ ဒီ function ကို import လုပ်ပြီး သုံးနိုင်ပါတယ်။

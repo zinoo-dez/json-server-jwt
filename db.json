@@ -1,87 +1,29 @@
 {
   "posts": [
     {
-      "id": "1",
-      "title": "One Post",
-      "body": "This is the One post",
-      "userId": 3
+      "title": "Omnis earum quibusda",
+      "body": "Sunt duis beatae et ",
+      "userId": 1,
+      "id": "345a",
+      "author": "bobo",
+      "date": "2015-05-05T12:00:00.000Z"
     },
     {
-      "id": "2",
-      "title": "Two Post",
-      "body": "This is the Two post",
-      "userId": 2
+      "title": "Pariatur Ducimus d",
+      "body": "Rerum cumque molesti",
+      "userId": 1,
+      "id": "244f"
     },
     {
-      "id": "4",
-      "title": "Fourth Post",
-      "body": "This is the fourth post",
-      "userId": 2
+      "id": "3780",
+      "title": "Repellendus Velit ",
+      "body": "Est blanditiis facil",
+      "userId": 0
     },
     {
-      "id": "5",
-      "title": "Fifth Post",
-      "body": "This is the fifth post",
-      "userId": 3
-    },
-    {
-      "id": "6",
-      "title": "Sixth Post",
-      "body": "This is the sixth post",
-      "userId": 3
-    },
-    {
-      "id": "7",
-      "title": "Seventh Post",
-      "body": "This is the seventh post",
-      "userId": 1
-    },
-    {
-      "id": "8",
-      "title": "Eighth Post",
-      "body": "This is the eighth post",
-      "userId": 2
-    },
-    {
-      "id": "9",
-      "title": "Ninth Post",
-      "body": "This is the ninth post",
-      "userId": 3
-    },
-    {
-      "id": "10",
-      "title": "Tenth Post",
-      "body": "This is the tenth post",
-      "userId": 1
-    },
-    {
-      "id": "11",
-      "title": "Hello Post edit",
-      "body": "This is the Hello post",
-      "userId": 1
-    },
-    {
-      "id": "1d42",
-      "title": "One Post222",
-      "body": "This is the One post",
-      "userId": 3
-    },
-    {
-      "id": "6200",
-      "title": "Two Post aeeb",
-      "body": "This is the Two post",
-      "userId": "aeeb"
-    },
-    {
-      "id": "8e0e",
-      "title": "Two Post aeeb",
-      "body": "This is the Two post",
-      "userId": 2
-    },
-    {
-      "id": "c7dd",
-      "title": "Two Post aeeb",
-      "body": "This is the Two post",
+      "id": "33c5",
+      "title": "hello",
+      "body": "hello body",
       "userId": 2
     }
   ],
@@ -105,10 +47,216 @@
       "id": "aeeb",
       "email": "user200@gmail.com",
       "password": "$2a$10$0sKVeOeyZj/Kz9QOk0csJ.AJhXsbUKHmkug1ks.MslIkbD32Y4q9q"
+    },
+    {
+      "id": "ed00",
+      "email": "bobo@gmail.com",
+      "password": "$2a$10$MwpZfMLwjmmzmFN8GCpv..uFVln6p7RTlIldJqWs.4NLvAQt/VuMa"
+    },
+    {
+      "id": "94df",
+      "email": "nnpp@gmail.com",
+      "password": "$2a$10$Jge0eS8T/m/k0Ezq9vhVhO9JyWPxbU1nIe0nMkd6vyXz96strHkt."
+    },
+    {
+      "id": "658b",
+      "email": "cedypeva@mailinator.com",
+      "password": "$2a$10$CZLvTSZmGMZmy/vo0YHzdu97SQPMcvqIVjPT9JOjqRqGaolwr4HJS"
+    },
+    {
+      "id": "e055",
+      "email": "nowaco@mailinator.com",
+      "password": "$2a$10$48MZNoZqsoTy1LSZ62VqQOcjl5Wch4deoMrHmcmG26xqDlcFpqksC"
+    },
+    {
+      "id": "2303",
+      "email": "popo@gmail.com",
+      "password": "$2a$10$outDxtBbh3TdvLd/Pfl3ouxxD6Gw0D/LpAaBgy17YCOR18d2jUyU6"
+    },
+    {
+      "id": "59aa",
+      "email": "fyhom@mailinator.com",
+      "password": "$2a$10$KSBEz93BRaPcQ62dbMJw3.CnxWE20P5fBv5fxj1ff/SVJilo2.3j."
+    },
+    {
+      "id": "dcbf",
+      "email": "vulariq@mailinator.com",
+      "password": "$2a$10$l5TfMU5x.y8m.zmjVEsgc.zQtyLIw/HlrLqxvGVuWxCJ.G5C2KqbC"
+    },
+    {
+      "id": "de6e",
+      "email": "mamixyluf@mailinator.com",
+      "password": "$2a$10$7Mi4lI.jEXKxwmydEL6Que0o4R5Kq0qVd3PxS1asqXGWhXhR6YW8e"
+    },
+    {
+      "id": "4aba",
+      "email": "popo55@gmail.com",
+      "password": "$2a$10$rAe5is94nxyFJo/ZhaMvX.VM87fibiGwxSjeRypQdvTQ4PdOZwgx2"
+    },
+    {
+      "id": "7274",
+      "username": "jirifolifo",
+      "email": "sytosuz@mailinator.com",
+      "password": "$2a$10$mcikB2c02SvhQsz35VdPQuH6c2gOHyrCrBSBhfnC3Oz34cTUZO8hy"
+    },
+    {
+      "id": "61a9",
+      "username": "hello",
+      "email": "hello@gmail.com",
+      "password": "$2a$10$vnJwlH6c4T8q2AWOWbzt5.qp46nsAd7qXvlAMGzdUEPvUu6yOfrVq"
+    },
+    {
+      "id": "286a",
+      "username": "lofeqyrugy",
+      "email": "radiz@mailinator.com",
+      "password": "$2a$10$beiqNd5hwsF3NQUHyutWA.dprtqqPePuWWLrejmqgRs/ApGfqEVHK"
+    },
+    {
+      "id": "a222",
+      "username": "tugaxyxafe",
+      "email": "segu@mailinator.com",
+      "password": "$2a$10$r5bWSZPjXoCK00Qkg9.f.u46z2c7ASQkpdORcixsmsWlYBbIMe5Aq"
+    },
+    {
+      "id": "a1fb",
+      "username": "wicot",
+      "email": "sapo@mailinator.com",
+      "password": "$2a$10$zCx8B8.FboJ9UWReAN5xqe6Es0VZuQvaqv1zYZ9sR.VM06tpjKH/G"
+    },
+    {
+      "id": "d366",
+      "username": "user",
+      "email": "user@user.com",
+      "password": "$2a$10$DTThIShyxwK2h8964CfB9OmkDtsEmugiQqkpG8QX3TBBHLYsw2fGK"
+    },
+    {
+      "id": "1778",
+      "username": "tiger",
+      "email": "tiger@gmail.com",
+      "password": "$2a$10$ILvuna09s9fxbwEPdz3D4uLRW6zm.YpP0QZxBbC/F.GwtwoR8B8VO"
+    },
+    {
+      "id": "9ac6",
+      "username": "user20",
+      "email": "user20@gmail.com",
+      "password": "$2a$10$huvSPCfLdwvxeONkjc66neKhjkfutdtHvltyQRDP.FrMA/gSyHcD6"
+    },
+    {
+      "id": "c224",
+      "username": "lesycusuto",
+      "email": "pymipihi@mailinator.com",
+      "password": "$2a$10$0idxurAZwf2B63zIEz3FvuXis7S0IDGGY2JEQVzBGFlusBlKT9MQu"
+    },
+    {
+      "id": "9ec7",
+      "username": "user",
+      "email": "user400@gmail.com",
+      "password": "$2a$10$i5VdpA2av/HaL/oTf9ZjWuJkIhsBatipksEa0IEq5DWYN9l8A2nMy"
+    },
+    {
+      "id": "1f96",
+      "username": "mgmg",
+      "email": "mgmg2025@gmail.com",
+      "password": "$2a$10$C1u6Ge/5EXEHJgjWO7BrjuSJCYPY/kHf8HvXmK4eygVX6uudILob."
     }
   ],
   "customers": [],
   "categories": [],
-  "products": [],
+  "products": [
+    {
+      "title": "hello",
+      "description": "dsgdfgdfg",
+      "price": 166,
+      "stock": "23",
+      "image": "https://images.unsplash.com/photo-1735754953434-6de0d3b531f5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Product 2",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "id": "3",
+      "title": "Product 3",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "id": "3b53",
+      "title": "hello",
+      "description": "Sunt consequatur re",
+      "price": 157,
+      "stock": "59",
+      "image": null
+    },
+    {
+      "id": "db9e",
+      "title": "In dolore magnam max",
+      "description": "Est quo est fugit v",
+      "price": 63,
+      "stock": "37",
+      "image": null
+    },
+    {
+      "id": "595d",
+      "title": "Dolorem excepteur co",
+      "description": "Reprehenderit placea",
+      "price": 624,
+      "stock": "31",
+      "image": null
+    },
+    {
+      "id": "640c",
+      "title": "Praesentium vitae vo",
+      "description": "At delectus est sed",
+      "price": 171,
+      "stock": "4",
+      "image": "Velit eveniet non n"
+    },
+    {
+      "id": "8783",
+      "title": "Ea esse velit poss",
+      "description": "Nobis dolore deserun",
+      "price": 398,
+      "stock": "13",
+      "image": null
+    },
+    {
+      "id": "6e4a",
+      "title": "Velit harum volupta",
+      "description": "Ut est alias consequ",
+      "price": 126,
+      "stock": "64",
+      "image": "Fugit deleniti beat"
+    },
+    {
+      "id": "b6cc",
+      "title": "Et ullam hic tenetur",
+      "description": "Occaecat voluptas re",
+      "price": 278,
+      "stock": "93",
+      "image": "Incididunt sed debit"
+    },
+    {
+      "id": "ef27",
+      "title": "Ducimus quia facere",
+      "description": "Eaque laboris archit",
+      "price": 255,
+      "stock": "17",
+      "image": "Sint dolorem maxime"
+    },
+    {
+      "id": "e850",
+      "title": "Molestias debitis nu",
+      "description": "Laborum Enim ea ut ",
+      "price": 173,
+      "stock": "43",
+      "image": null
+    }
+  ],
   "orders": []
 }
